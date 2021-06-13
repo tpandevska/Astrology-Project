@@ -1,0 +1,25 @@
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\bin\Debug\Astrology Project.exe.config
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\bin\Debug\Astrology Project.exe
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\bin\Debug\Astrology Project.pdb
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csprojAssemblyReference.cache
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.Form1.resources
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.Properties.Resources.resources
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csproj.GenerateResource.cache
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csproj.CoreCompileInputs.cache
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology Project.exe
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology Project.pdb
+C:\Users\Tijana\Desktop\fax\Vizuelno programiranje\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.CalculateZodiacSign.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\bin\Debug\Astrology Project.exe.config
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\bin\Debug\Astrology Project.exe
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\bin\Debug\Astrology Project.pdb
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.CalculateZodiacSign.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.Form1.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.Properties.Resources.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology Project.exe
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology Project.pdb
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.CalculateMoonSign.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.CalculateAscendingSign.resources
+C:\Users\DELL\Desktop\VP_Proekt\Astrology-Project-main\Astrology Project\Astrology Project\obj\Debug\Astrology_Project.ShowDailyHoroscop.resources
